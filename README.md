@@ -14,4 +14,4 @@
 - [Why we write ```WebDriver driver = new ChromeDriver();```](https://monilnigdi.medium.com/why-we-write-webdriver-driver-new-chromedriver-in-selenium-23e2ef08c54c)
 
 ## License & Copyright
-&copy; 2022 [HQT Team](https://github.com/HQT-Team) Licensed under the [GNU-3.0 LICENSE](https://github.com/HQT-Team/automation-test-with-selenium/blob/main/License).
+&copy; 2022 [HQT Team](https://github.com/HQT-Team) Licensed under the [GPL-3.0 LICENSE](https://github.com/HQT-Team/automation-test-with-selenium/blob/main/License).
