@@ -3,6 +3,9 @@
 ## Description
 - Automation test login function with Selenium &amp; received green with JUnit 5
 
+## Demo image
+<img  src="https://github.com/HQT-Team/automation-test-with-selenium/blob/main/demo_imgs/demo.png"  alt="Demo image"  width="45%"></img>
+
 ## Reference
 - [Automate E-Commerce Website](https://www.techlistic.com/2020/06/automate-ecommerce-website.html#search-product)
 - [PHP Travels For Testing](https://phptravels.net/)
