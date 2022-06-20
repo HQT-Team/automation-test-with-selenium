@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.hqt.automationtestwithselenium.login.PhpTravelsTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.039 s - in com.hqt.automationtestwithselenium.login.PhpTravelsTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.397 s - in com.hqt.automationtestwithselenium.login.PhpTravelsTest
